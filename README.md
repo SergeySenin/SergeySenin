@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-pa1adium-5865F2?style=social&logo=discord)](https://discord.com/users/1281203808864571496)
-[![Telegram](https://img.shields.io/badge/Telegram-JdevSen-26A5E4?style=social&logo=telegram)](https://t.me/JdevSen)
+[![Telegram](https://img.shields.io/badge/Telegram-pa1adium-26A5E4?style=social&logo=telegram)](https://t.me/pa1adium)
 [![VK](https://img.shields.io/badge/VK-pa1adium-0077FF?style=social&logo=vk)](https://vk.com/pa1adium)
 
 ## 🛠️ Tech Stack:
