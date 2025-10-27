@@ -10,6 +10,9 @@
 ## 🛠️ Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,redis,kafka,git,github,githubactions,gradle,docker,aws,md,idea,postman,windows,linux,bash,powershell,stackoverflow&perline=10)](https://skillicons.dev)
 
+### ==
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Harold%20Abelson)
+
 ### Read more
 *   **Languages & Query:** Java (17), SQL
 *   **Frameworks & Libraries:** Spring Ecosystem (Boot (3), Web, Data JPA), Hibernate, JPA, MapStruct, OpenFeign
@@ -20,6 +23,3 @@
 *   **Development & Productivity:** IntelliJ IDEA, Postman, Swagger, DBeaver
 *   **Operating Systems:** Windows, Linux (Bash, PowerShell)
 *   **Soft Skills:** Team Collaboration, Knowledge Sharing (StackOverflow), Agile (Scrum)
-
-### ==
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Harold%20Abelson)
