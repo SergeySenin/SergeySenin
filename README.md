@@ -15,9 +15,10 @@
 
 ### Read more
 *   **Languages & Query:** Java (17), SQL
-*   **Frameworks & Libraries:** Spring Ecosystem (Boot (3), Web, Data JPA), Hibernate, JPA, MapStruct, OpenFeign
+*   **Frameworks & Libraries:** Spring Ecosystem (Boot (3), Security, Web, Data JPA), Hibernate, JPA, MapStruct, OpenFeign
 *   **Databases & Migration:** PostgreSQL, Redis, Liquibase
 *   **Message Brokers & Integration:** Apache Kafka, REST, HTTP, JSON
+*   **Authentication & Authorization:** Spring Security, Keycloak, OAuth2, JWT
 *   **Testing & QA:** JUnit, Mockito, JaCoCo, Integration Testing
 *   **Tools & DevOps:** Git, GitHub Actions, Gradle, Docker, AWS, Markdown, Jira
 *   **Development & Productivity:** IntelliJ IDEA, Postman, Swagger, DBeaver
