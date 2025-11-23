@@ -20,7 +20,7 @@
 *   **Message Brokers & Integration:** Apache Kafka, REST, HTTP, JSON
 *   **Authentication & Authorization:** Spring Security, Keycloak, OAuth2, JWT
 *   **Testing & QA:** JUnit, Mockito, JaCoCo, Integration Testing
-*   **Tools & DevOps:** Git, GitHub Actions, Gradle, Docker, AWS, Markdown, Jira
+*   **Tools & DevOps:** Git, GitHub, GitLab, GitHub Actions, GitLab CI/CD, Gradle, Docker, AWS, Markdown, Jira
 *   **Development & Productivity:** IntelliJ IDEA, Postman, Swagger, DBeaver
 *   **Operating Systems:** Windows, Linux (Bash, PowerShell)
 *   **Soft Skills:** Team Collaboration, Knowledge Sharing (StackOverflow), Agile (Scrum)
